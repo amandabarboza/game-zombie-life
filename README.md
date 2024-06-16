@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><b> Zombie Life 🏃 - Game </b></h1>
+<h1 style="text-align: center;"><b> Zombie Life 🧟🏃 - Game </b></h1>
 
 <h3><b>Descrição do jogo</b></h3>
 
