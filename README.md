@@ -21,7 +21,7 @@ Teclas A, W, S e D para mover o personagem.
    
 ![nevar](https://github.com/amandabarboza/game-zombie-life/assets/71797931/2085fa83-6ca5-4474-991c-5a6733295834)
 
-3. Pular
+2. Pular
 
 ![gif_pulo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/cab3b146-ec91-4502-8fcd-e69a4c2afe8f)
 
