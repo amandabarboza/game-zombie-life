@@ -28,11 +28,11 @@ Assista a Gameplay, clicando abaixo: ⬇️ <br>
 
 ![Captura de tela 2024-06-16 215333](https://github.com/amandabarboza/game-zombie-life/assets/71797931/8c95936b-a0c9-4472-bf9b-94d13ecd7146)
 
-<br>
+<br> 
 
 <h3> Funcionalidades Adicionadas </h3>
 
-1. Nevar
+<strong>1. Nevar</strong>
    
 ![nevar](https://github.com/amandabarboza/game-zombie-life/assets/71797931/2085fa83-6ca5-4474-991c-5a6733295834)
 
@@ -40,8 +40,9 @@ Foi criado o efeito de neve usando a ferramenta 'Particle System' que incia desd
 
 ![PARTICULAS](https://github.com/amandabarboza/game-zombie-life/assets/71797931/5f9829b7-65bf-46f3-b6e1-fd03887a76c1)
 
+ <br>
 
-2. Pular
+<strong>2. Pular</strong>
 
 Ao pressionar a tecla <strong>CTRL</strong>, o personagem faz o movimento de pular.
 ![gif_pulo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/cab3b146-ec91-4502-8fcd-e69a4c2afe8f)
