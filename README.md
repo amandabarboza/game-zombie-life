@@ -7,9 +7,11 @@ Em "Zombie Life", você assume o papel de um destemido policial em uma cidade as
 <h3><b>🎮 Modo de Jogar 🎮</b></h3> 
 Teclas A ⬅️ W ⬆️ S ⬇️ D ➡️ para mover o personagem.
 
-<br>
+<br> <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KTgG6A75RTw?si=4XFFMz-O3fwVej9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Assistia a Gameplay: ⬇️
+[![Assista ao vídeo](https://img.youtube.com/vi/KTgG6A75RTw/0.jpg)](https://youtu.be/KTgG6A75RTw)
+
 
 <h3> Telas do jogo </h3>
 
