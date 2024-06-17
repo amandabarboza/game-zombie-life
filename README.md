@@ -9,7 +9,8 @@ Teclas A ⬅️ W ⬆️ S ⬇️ D ➡️ para mover o personagem.
 
 <br> <br>
 
-Assistia a Gameplay: ⬇️
+Assistia a Gameplay: ⬇️ <br>
+
 [![Assista ao vídeo](https://img.youtube.com/vi/KTgG6A75RTw/0.jpg)](https://youtu.be/KTgG6A75RTw)
 
 
