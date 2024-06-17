@@ -9,7 +9,7 @@ Teclas <strong> A W S D </strong> para mover o personagem.
 
 <br> 
 <br>
-
+<h3> Video disponível no Youtube </h3>
 Assista a Gameplay, clicando abaixo: ⬇️ <br>
 
 [![Assista ao vídeo](https://img.youtube.com/vi/KTgG6A75RTw/0.jpg)](https://youtu.be/KTgG6A75RTw)
