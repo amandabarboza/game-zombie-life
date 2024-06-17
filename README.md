@@ -80,5 +80,6 @@ public class SimpleJump : MonoBehaviour
 </pre>
 
 
-<h4>Tela principal do jogo</h4>
+<h4>Tela de menu</h4>
+![tela do jogo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/9ca1ae5b-b1de-4709-8d1c-7b073d2f611a)
 
