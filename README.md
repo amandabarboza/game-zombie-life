@@ -5,7 +5,7 @@ Em "Zombie Life", você assume o papel de um destemido policial em uma cidade as
 
 
 <h3><b>🎮 Modo de Jogar 🎮</b></h3> 
-Teclas <strong> A W S D ➡ </strong> para mover o personagem.
+Teclas <strong> A W S D </strong> para mover o personagem.
 
 <br> <br>
 
