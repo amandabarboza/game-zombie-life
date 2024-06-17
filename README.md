@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"><b> Zombie Life 🧟🏃 - Game </b></h1>
 
 <h3><b>Descrição do jogo</b></h3>
-Em "Zombie Life", você assume o papel de um destemido policial em uma cidade assolada por um terrível surto de zumbis. Armado até os dentes, seu objetivo é resgatar o máximo de civis possível enquanto enfrenta hordas de mortos-vivos sedentos por carne humana.
+Em "Zombie Life", você assume o papel de um destemido policial em uma cidade assolada por um terrível surto de zumbis. Armado até os dentes, seu objetivo é resgatar o máximo de civis possível enquanto enfrenta hordas de mortos-vivos.
 
 
 <h3><b>🎮 Modo de Jogar 🎮</b></h3> 
