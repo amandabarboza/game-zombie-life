@@ -1,11 +1,11 @@
 <h1 style="text-align: center;"><b> Zombie Life 🧟🏃 - Game </b></h1>
 
 <h3><b>Descrição do jogo</b></h3>
-
+Em "Zombie Life", você assume o papel de um destemido policial em uma cidade assolada por um terrível surto de zumbis. Armado até os dentes, seu objetivo é resgatar o máximo de civis possível enquanto enfrenta hordas de mortos-vivos sedentos por carne humana.
 
 
 <h3><b>🎮 Modo de Jogar 🎮</b></h3> 
-Teclas A, W, S e D para mover o personagem.
+Teclas A ⬅️ W ⬆️ S ⬇️ D ➡️ para mover o personagem.
 
 <br>
 
@@ -13,9 +13,11 @@ Teclas A, W, S e D para mover o personagem.
 
 <h4>Menu inicial</h4>
 
+![tela do jogo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/9ca1ae5b-b1de-4709-8d1c-7b073d2f611a)
+
 <br>
 
-<h3> Funcionalidades </h3>
+<h3> Funcionalidades Adicionadas </h3>
 
 1. Nevar
    
@@ -80,6 +82,5 @@ public class SimpleJump : MonoBehaviour
 </pre>
 
 
-<h4>Tela de menu</h4>
-![tela do jogo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/9ca1ae5b-b1de-4709-8d1c-7b073d2f611a)
+
 
