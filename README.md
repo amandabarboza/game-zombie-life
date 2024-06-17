@@ -46,7 +46,7 @@ Foi criado o efeito de neve usando a ferramenta 'Particle System' que incia desd
 Ao pressionar a tecla <strong>ESPAÇO</strong>, o personagem faz o movimento de pular.
 ![gif_pulo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/cab3b146-ec91-4502-8fcd-e69a4c2afe8f)
 
-Abaixo o código que cria essa funcionalidade ao personagem:
+Abaixo o código que dá essa funcionalidade ao personagem:
 
 <pre>
 C#
