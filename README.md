@@ -23,6 +23,8 @@ Teclas A ⬅️ W ⬆️ S ⬇️ D ➡️ para mover o personagem.
    
 ![nevar](https://github.com/amandabarboza/game-zombie-life/assets/71797931/2085fa83-6ca5-4474-991c-5a6733295834)
 
+Foi criado usando a ferramenta 'Particle System'.
+
 ![PARTICULAS](https://github.com/amandabarboza/game-zombie-life/assets/71797931/5f9829b7-65bf-46f3-b6e1-fd03887a76c1)
 
 
