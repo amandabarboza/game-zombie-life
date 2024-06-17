@@ -9,7 +9,7 @@ Teclas A ⬅️ W ⬆️ S ⬇️ D ➡️ para mover o personagem.
 
 <br> <br>
 
-Assistia a Gameplay: ⬇️ <br>
+Assista a Gameplay, clicando abaixo: ⬇️ <br>
 
 [![Assista ao vídeo](https://img.youtube.com/vi/KTgG6A75RTw/0.jpg)](https://youtu.be/KTgG6A75RTw)
 
@@ -20,6 +20,12 @@ Assistia a Gameplay: ⬇️ <br>
 
 ![tela do jogo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/9ca1ae5b-b1de-4709-8d1c-7b073d2f611a)
 
+![Captura de tela 2024-06-16 215150](https://github.com/amandabarboza/game-zombie-life/assets/71797931/320077eb-ab6e-4151-a0bf-7e6eab7e7de1)
+
+![Captura de tela 2024-06-16 215234](https://github.com/amandabarboza/game-zombie-life/assets/71797931/4e5ab5e5-0ecc-4734-a79d-b2e604871aab)
+
+![Captura de tela 2024-06-16 215333](https://github.com/amandabarboza/game-zombie-life/assets/71797931/8c95936b-a0c9-4472-bf9b-94d13ecd7146)
+
 <br>
 
 <h3> Funcionalidades Adicionadas </h3>
@@ -28,16 +34,17 @@ Assistia a Gameplay: ⬇️ <br>
    
 ![nevar](https://github.com/amandabarboza/game-zombie-life/assets/71797931/2085fa83-6ca5-4474-991c-5a6733295834)
 
-Foi criado usando a ferramenta 'Particle System'.
+Foi criado o efeito de neve usando a ferramenta 'Particle System' que incia desde o início do jogo, em looping.
 
 ![PARTICULAS](https://github.com/amandabarboza/game-zombie-life/assets/71797931/5f9829b7-65bf-46f3-b6e1-fd03887a76c1)
 
 
 2. Pular
 
+Ao pressionar a tecla <strong>CTRL</strong>, o personagem faz o movimento de pular.
 ![gif_pulo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/cab3b146-ec91-4502-8fcd-e69a4c2afe8f)
 
-
+Abaixo o código que cria essa funcionalidade ao personagem:
 
 <pre>
 C#
