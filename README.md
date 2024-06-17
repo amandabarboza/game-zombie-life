@@ -20,6 +20,8 @@ Assista a Gameplay, clicando abaixo: ⬇️ <br>
 
 ![tela do jogo](https://github.com/amandabarboza/game-zombie-life/assets/71797931/9ca1ae5b-b1de-4709-8d1c-7b073d2f611a)
 
+<h4>Outras telas</h4>
+
 ![Captura de tela 2024-06-16 215150](https://github.com/amandabarboza/game-zombie-life/assets/71797931/320077eb-ab6e-4151-a0bf-7e6eab7e7de1)
 
 ![Captura de tela 2024-06-16 215234](https://github.com/amandabarboza/game-zombie-life/assets/71797931/4e5ab5e5-0ecc-4734-a79d-b2e604871aab)
